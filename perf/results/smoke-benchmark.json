@@ -1,0 +1,21 @@
+{
+  "target": "local-smoke",
+  "profile": "benchmark",
+  "url": "http://127.0.0.1:18080/",
+  "started_at": "2026-06-28T21:36:20.893383+00:00",
+  "requests": 500,
+  "concurrency": 1,
+  "duration_seconds": 0.9526138720000006,
+  "requests_per_second": 524.8716344537966,
+  "success": 500,
+  "failures": 0,
+  "latency_ms": {
+    "min": 1.3989900000126454,
+    "mean": 1.8534863779996158,
+    "median": 1.6959200000030705,
+    "p95": 2.5368270000001303,
+    "p99": 4.042462000001024,
+    "max": 25.367738999989342
+  },
+  "sample_errors": []
+}
